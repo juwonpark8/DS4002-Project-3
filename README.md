@@ -4,6 +4,8 @@ Our code was written in Python using UVA OpenOnDemand (UVA HPC) in order to run 
 # Section 2: Map of Documentation
 In our repository, there are folders for the data, scripts, and output. The data is from a github repository on brain MRI image classification and is located in the Data folder.
 - In the Data folder:
+  - Data Appendix Project 3.pdf: Data Appendix
+  - brain_tumor_dataset.zip: a folder containing subfolders no with MRI scan images of no brain tumors and yes with MRI scan images of brain tumors 
 - In the Scripts folder:
 - In the Output folder:
 # Section 3: Instructions for Reproducing Our Results
